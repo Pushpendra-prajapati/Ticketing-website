@@ -28,5 +28,5 @@ window.onload = function() {
 }
 
 
-console.log(price);
+
    
